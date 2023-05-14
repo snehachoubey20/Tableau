@@ -1,2 +1,2 @@
 # Tableau
-To visualize the data using Tableau, creating a dashboard for Match statistics.
+To visualize the data using Tableau, creating a dashboards for different analyzations. 
